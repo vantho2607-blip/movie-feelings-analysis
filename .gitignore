@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Agent config (Antigravity)
+.agents/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

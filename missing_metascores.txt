@@ -1,0 +1,165 @@
+Index: 0023 | ID: tt0061429 | A Bullet for the General | 1966 | Tomatometer: N/A | Link: https://www.imdb.com/title/tt0061429/ | Metascore: N/A
+Index: 0027 | ID: tt0094924 | A Cry in the Dark | 1988 | Tomatometer: 94.0 | Link: https://www.imdb.com/title/tt0094924/ | Metascore: 75
+Index: 0028 | ID: tt0028445 | A Day in the Country | 1946 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0028445/ | Metascore: N/A
+Index: 0038 | ID: tt0049902 | A Man Escaped | 1956 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0049902/ | Metascore: N/A
+Index: 0040 | ID: tt0038733 | A Matter of Life and Death | 1946 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0038733/ | Metascore: N/A
+Index: 0042 | ID: tt0051994 | A Night to Remember | 1958 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0051994/ | Metascore: N/A
+Index: 0053 | ID: tt0064451 | A Touch of Zen | 1970 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0064451/ | Metascore: N/A
+Index: 0057 | ID: tt1610996 | Absentia | 2011 | Tomatometer: 87.0 | Link: https://www.imdb.com/title/tt1610996/ | Metascore: N/A
+Index: 0067 | ID: tt0068182 | Aguirre, the Wrath of God | 1972 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0068182/ | Metascore: N/A
+Index: 0101 | ID: tt0060107 | Andrei Rublev | 1966 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0060107/ | Metascore: N/A
+Index: 0116 | ID: tt0036613 | Arsenic and Old Lace | 1944 | Tomatometer: 86.0 | Link: https://www.imdb.com/title/tt0036613/ | Metascore: N/A
+Index: 0150 | ID: tt0061395 | Belle de Jour | 1967 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0061395/ | Metascore: N/A
+Index: 0156 | ID: tt0040522 | Bicycle Thieves | 1948 | Tomatometer: 99.0 | Link: https://www.imdb.com/title/tt0040522/ | Metascore: N/A
+Index: 0162 | ID: tt0049010 | Bigger Than Life | 1956 | Tomatometer: 91.0 | Link: https://www.imdb.com/title/tt0049010/ | Metascore: N/A
+Index: 0172 | ID: tt0054067 | Black Sunday | 1960 | Tomatometer: 88.0 | Link: https://www.imdb.com/title/tt0054067/ | Metascore: N/A
+Index: 0185 | ID: tt0039204 | Body and Soul | 1947 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt0039204/ | Metascore: N/A
+Index: 0193 | ID: tt0042276 | Born Yesterday | 1950 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0042276/ | Metascore: N/A
+Index: 0204 | ID: tt0053472 | Breathless | 1960 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0053472/ | Metascore: N/A
+Index: 0209 | ID: tt0039220 | Brighton Rock | 1948 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0039220/ | Metascore: N/A
+Index: 0218 | ID: tt0109348 | Bullets Over Broadway | 1994 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0109348/ | Metascore: 90
+Index: 0221 | ID: tt0111579 | Burnt by the Sun | 1994 | Tomatometer: 81.0 | Link: https://www.imdb.com/title/tt0111579/ | Metascore: N/A
+Index: 0235 | ID: tt0055830 | Carnival of Souls | 1962 | Tomatometer: 87.0 | Link: https://www.imdb.com/title/tt0055830/ | Metascore: N/A
+Index: 0245 | ID: tt0109592 | Cemetery Man | 1994 | Tomatometer: 63.0 | Link: https://www.imdb.com/title/tt0109592/ | Metascore: N/A
+Index: 0274 | ID: tt0091251 | Come and See | 1985 | Tomatometer: 89.0 | Link: https://www.imdb.com/title/tt0091251/ | Metascore: N/A
+Index: 0279 | ID: tt0057345 | Contempt | 1963 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt0057345/ | Metascore: N/A
+Index: 0298 | ID: tt0059084 | Darling | 1965 | Tomatometer: 72.0 | Link: https://www.imdb.com/title/tt0059084/ | Metascore: N/A
+Index: 0303 | ID: tt0070460 | Day for Night | 1973 | Tomatometer: 98.0 | Link: https://www.imdb.com/title/tt0070460/ | Metascore: N/A
+Index: 0304 | ID: tt0061709 | Day of Anger | 1967 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0061709/ | Metascore: N/A
+Index: 0306 | ID: tt0036506 | Day of Wrath | 1943 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0036506/ | Metascore: N/A
+Index: 0310 | ID: tt0094961 | Dead Heat | 1988 | Tomatometer: 11.0 | Link: https://www.imdb.com/title/tt0094961/ | Metascore: N/A
+Index: 0314 | ID: tt0039305 | Dead Reckoning | 1947 | Tomatometer: 82.0 | Link: https://www.imdb.com/title/tt0039305/ | Metascore: N/A
+Index: 0324 | ID: tt0042393 | Destination Moon | 1950 | Tomatometer: 67.0 | Link: https://www.imdb.com/title/tt0042393/ | Metascore: N/A
+Index: 0332 | ID: tt0082269 | Diva | 1981 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0082269/ | Metascore: N/A
+Index: 0337 | ID: tt0280609 | Dog Soldiers | 2002 | Tomatometer: 82.0 | Link: https://www.imdb.com/title/tt0280609/ | Metascore: N/A
+Index: 0396 | ID: tt0060390 | Fahrenheit 451 | 1966 | Tomatometer: 81.0 | Link: https://www.imdb.com/title/tt0060390/ | Metascore: N/A
+Index: 0412 | ID: tt0053121 | Fires on the Plain | 1959 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0053121/ | Metascore: N/A
+Index: 0418 | ID: tt0083946 | Fitzcarraldo | 1982 | Tomatometer: 74.0 | Link: https://www.imdb.com/title/tt0083946/ | Metascore: N/A
+Index: 0419 | ID: tt0077559 | Five Deadly Venoms | 1978 | Tomatometer: 80.0 | Link: https://www.imdb.com/title/tt0077559/ | Metascore: N/A
+Index: 0428 | ID: tt0050407 | Forty Guns | 1957 | Tomatometer: N/A | Link: https://www.imdb.com/title/tt0050407/ | Metascore: N/A
+Index: 0433 | ID: tt4086032 | Frankenstein | 2015 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt4086032/ | Metascore: N/A
+Index: 0447 | ID: tt0064068 | Funeral Parade of Roses | 1969 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0064068/ | Metascore: N/A
+Index: 0456 | ID: tt0058138 | Gertrud | 1964 | Tomatometer: 71.0 | Link: https://www.imdb.com/title/tt0058138/ | Metascore: N/A
+Index: 0464 | ID: tt0038559 | Gilda | 1946 | Tomatometer: 90.0 | Link: https://www.imdb.com/title/tt0038559/ | Metascore: N/A
+Index: 0496 | ID: tt0104684 | Hard Boiled | 1992 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt0104684/ | Metascore: N/A
+Index: 0503 | ID: tt0042546 | Harvey | 1950 | Tomatometer: 88.0 | Link: https://www.imdb.com/title/tt0042546/ | Metascore: N/A
+Index: 0514 | ID: tt0033704 | Hellzapoppin’ | 1941 | Tomatometer: N/A | Link: https://www.imdb.com/title/tt0033704/ | Metascore: N/A
+Index: 0525 | ID: tt0052893 | Hiroshima Mon Amour | 1959 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0052893/ | Metascore: N/A
+Index: 0526 | ID: tt0032599 | His Girl Friday | 1940 | Tomatometer: 99.0 | Link: https://www.imdb.com/title/tt0032599/ | Metascore: N/A
+Index: 0541 | ID: tt0051745 | Houseboat | 1958 | Tomatometer: 58.0 | Link: https://www.imdb.com/title/tt0051745/ | Metascore: N/A
+Index: 0546 | ID: tt0058604 | I Am Cuba | 1964 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0058604/ | Metascore: N/A
+Index: 0551 | ID: tt0036027 | I Walked with a Zombie | 1943 | Tomatometer: 85.0 | Link: https://www.imdb.com/title/tt0036027/ | Metascore: N/A
+Index: 0557 | ID: tt0042593 | In a Lonely Place | 1950 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0042593/ | Metascore: N/A
+Index: 0581 | ID: tt0024188 | Island of Lost Souls | 1932 | Tomatometer: 88.0 | Link: https://www.imdb.com/title/tt0024188/ | Metascore: N/A
+Index: 0584 | ID: tt0045920 | It Came from Outer Space | 1953 | Tomatometer: 81.0 | Link: https://www.imdb.com/title/tt0045920/ | Metascore: N/A
+Index: 0589 | ID: tt0056111 | Ivan’s Childhood | 1962 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0056111/ | Metascore: N/A
+Index: 0594 | ID: tt0063152 | Je T’Aime, Je T’Aime | 1968 | Tomatometer: 89.0 | Link: https://www.imdb.com/title/tt0063152/ | Metascore: N/A
+Index: 0598 | ID: tt0052948 | Journey to the Center of the Earth | 1959 | Tomatometer: 84.0 | Link: https://www.imdb.com/title/tt0052948/ | Metascore: N/A
+Index: 0604 | ID: tt0116743 | Kama Sutra: A Tale of Love | 1996 | Tomatometer: 42.0 | Link: https://www.imdb.com/title/tt0116743/ | Metascore: 41
+Index: 0605 | ID: tt0050585 | Kanal | 1957 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0050585/ | Metascore: N/A
+Index: 0610 | ID: tt0041546 | Kind Hearts and Coronets | 1949 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0041546/ | Metascore: N/A
+Index: 0611 | ID: tt0070800 | King Boxer | 1972 | Tomatometer: N/A | Link: https://www.imdb.com/title/tt0070800/ | Metascore: N/A
+Index: 0614 | ID: tt0048261 | Kiss Me Deadly | 1955 | Tomatometer: 98.0 | Link: https://www.imdb.com/title/tt0048261/ | Metascore: N/A
+Index: 0618 | ID: tt0058279 | Kwaidan | 1964 | Tomatometer: 91.0 | Link: https://www.imdb.com/title/tt0058279/ | Metascore: N/A
+Index: 0621 | ID: tt0053619 | L’Avventura | 1960 | Tomatometer: 94.0 | Link: https://www.imdb.com/title/tt0053619/ | Metascore: N/A
+Index: 0624 | ID: tt0113247 | La Haine | 1995 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0113247/ | Metascore: N/A
+Index: 0626 | ID: tt0047528 | La Strada | 1954 | Tomatometer: 98.0 | Link: https://www.imdb.com/title/tt0047528/ | Metascore: N/A
+Index: 0631 | ID: tt0054632 | Last Year at Marienbad | 1961 | Tomatometer: 93.0 | Link: https://www.imdb.com/title/tt0054632/ | Metascore: N/A
+Index: 0633 | ID: tt0037008 | Laura | 1944 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0037008/ | Metascore: N/A
+Index: 0640 | ID: tt0046911 | Les Diaboliques | 1955 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0046911/ | Metascore: N/A
+Index: 0644 | ID: tt0040536 | Letter from an Unknown Woman | 1948 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0040536/ | Metascore: N/A
+Index: 0659 | ID: tt0048308 | Lola Montès | 1955 | Tomatometer: 82.0 | Link: https://www.imdb.com/title/tt0048308/ | Metascore: N/A
+Index: 0669 | ID: tt0022100 | M | 1931 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0022100/ | Metascore: N/A
+Index: 0688 | ID: tt1029234 | Martyrs | 2008 | Tomatometer: 64.0 | Link: https://www.imdb.com/title/tt1029234/ | Metascore: N/A
+Index: 0709 | ID: tt0037075 | Ministry of Fear | 1944 | Tomatometer: 85.0 | Link: https://www.imdb.com/title/tt0037075/ | Metascore: N/A
+Index: 0712 | ID: tt6908274 | Mirage | 2018 | Tomatometer: N/A | Link: https://www.imdb.com/title/tt6908274/ | Metascore: N/A
+Index: 0721 | ID: tt0046487 | Monsieur Hulot’s Holiday | 1953 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0046487/ | Metascore: N/A
+Index: 0731 | ID: tt0119711 | Mother and Son | 1997 | Tomatometer: 79.0 | Link: https://www.imdb.com/title/tt0119711/ | Metascore: N/A
+Index: 0740 | ID: tt0476735 | My Father and My Son | 2005 | Tomatometer: N/A | Link: https://www.imdb.com/title/tt0476735/ | Metascore: N/A
+Index: 0756 | ID: tt0050766 | Night of the Demon | 1957 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0050766/ | Metascore: N/A
+Index: 0758 | ID: tt0031725 | Ninotchka | 1939 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0031725/ | Metascore: N/A
+Index: 0777 | ID: tt0103285 | Once Upon a Time in China | 1991 | Tomatometer: 90.0 | Link: https://www.imdb.com/title/tt0103285/ | Metascore: N/A
+Index: 0788 | ID: tt0048452 | Ordet | 1955 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0048452/ | Metascore: N/A
+Index: 0790 | ID: tt0041719 | Orpheus | 1950 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0041719/ | Metascore: N/A
+Index: 0803 | ID: tt0098061 | Paperhouse | 1988 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0098061/ | Metascore: N/A
+Index: 0811 | ID: tt0048473 | Pather Panchali | 1955 | Tomatometer: 98.0 | Link: https://www.imdb.com/title/tt0048473/ | Metascore: N/A
+Index: 0814 | ID: tt0054167 | Peeping Tom | 1960 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0054167/ | Metascore: N/A
+Index: 0816 | ID: tt0066214 | Performance | 1970 | Tomatometer: 82.0 | Link: https://www.imdb.com/title/tt0066214/ | Metascore: N/A
+Index: 0825 | ID: tt0046187 | Pickup on South Street | 1953 | Tomatometer: 93.0 | Link: https://www.imdb.com/title/tt0046187/ | Metascore: N/A
+Index: 0826 | ID: tt0048491 | Picnic | 1955 | Tomatometer: 45.0 | Link: https://www.imdb.com/title/tt0048491/ | Metascore: N/A
+Index: 0832 | ID: tt1077258 | Planet Terror | 2007 | Tomatometer: 77.0 | Link: https://www.imdb.com/title/tt1077258/ | Metascore: 77
+Index: 0841 | ID: tt0030643 | Port of Shadows | 1938 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0030643/ | Metascore: N/A
+Index: 0868 | ID: tt0045070 | Rancho Notorious | 1952 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0045070/ | Metascore: N/A
+Index: 0888 | ID: tt0056406 | Requiem for a Heavyweight | 1962 | Tomatometer: 89.0 | Link: https://www.imdb.com/title/tt0056406/ | Metascore: N/A
+Index: 0900 | ID: tt0058530 | Robinson Crusoe on Mars | 1964 | Tomatometer: 94.0 | Link: https://www.imdb.com/title/tt0058530/ | Metascore: N/A
+Index: 0917 | ID: tt0014429 | Safety Last! | 1923 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0014429/ | Metascore: N/A
+Index: 0921 | ID: tt0045848 | Sawdust and Tinsel | 1953 | Tomatometer: 91.0 | Link: https://www.imdb.com/title/tt0045848/ | Metascore: N/A
+Index: 0929 | ID: tt0114367 | Screamers | 1995 | Tomatometer: 27.0 | Link: https://www.imdb.com/title/tt0114367/ | Metascore: N/A
+Index: 0945 | ID: tt0015324 | Sherlock, Jr. | 1924 | Tomatometer: 86.0 | Link: https://www.imdb.com/title/tt0015324/ | Metascore: N/A
+Index: 0974 | ID: tt0049778 | Somebody Up There Likes Me | 1956 | Tomatometer: 86.0 | Link: https://www.imdb.com/title/tt0049778/ | Metascore: N/A
+Index: 1013 | ID: tt0041931 | Stromboli | 1950 | Tomatometer: 67.0 | Link: https://www.imdb.com/title/tt0041931/ | Metascore: N/A
+Index: 1016 | ID: tt0067805 | Sunday Bloody Sunday | 1971 | Tomatometer: 83.0 | Link: https://www.imdb.com/title/tt0067805/ | Metascore: N/A
+Index: 1021 | ID: tt0104558 | Supercop | 1992 | Tomatometer: 93.0 | Link: https://www.imdb.com/title/tt0104558/ | Metascore: N/A
+Index: 1030 | ID: tt0069341 | Tales from the Crypt | 1972 | Tomatometer: 90.0 | Link: https://www.imdb.com/title/tt0069341/ | Metascore: N/A
+Index: 1036 | ID: tt0063678 | Teorema | 1968 | Tomatometer: 83.0 | Link: https://www.imdb.com/title/tt0063678/ | Metascore: N/A
+Index: 1038 | ID: tt0096251 | Tetsuo: The Iron Man | 1989 | Tomatometer: 83.0 | Link: https://www.imdb.com/title/tt0096251/ | Metascore: N/A
+Index: 1041 | ID: tt0078243 | The 36th Chamber of Shaolin | 1978 | Tomatometer: 83.0 | Link: https://www.imdb.com/title/tt0078243/ | Metascore: N/A
+Index: 1043 | ID: tt0053198 | The 400 Blows | 1959 | Tomatometer: 99.0 | Link: https://www.imdb.com/title/tt0053198/ | Metascore: N/A
+Index: 1046 | ID: tt0051337 | The 7th Voyage of Sinbad | 1958 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0051337/ | Metascore: N/A
+Index: 1047 | ID: tt0112288 | The Addiction | 1995 | Tomatometer: 74.0 | Link: https://www.imdb.com/title/tt0112288/ | Metascore: N/A
+Index: 1055 | ID: tt0069738 | The Asphyx | 1972 | Tomatometer: 67.0 | Link: https://www.imdb.com/title/tt0069738/ | Metascore: N/A
+Index: 1068 | ID: tt2272350 | The Battery | 2012 | Tomatometer: 78.0 | Link: https://www.imdb.com/title/tt2272350/ | Metascore: N/A
+Index: 1070 | ID: tt0045546 | The Beast from 20,000 Fathoms | 1953 | Tomatometer: 91.0 | Link: https://www.imdb.com/title/tt0045546/ | Metascore: N/A
+Index: 1075 | ID: tt0045555 | The Big Heat | 1953 | Tomatometer: 94.0 | Link: https://www.imdb.com/title/tt0045555/ | Metascore: N/A
+Index: 1078 | ID: tt0044419 | The Big Sky | 1952 | Tomatometer: 89.0 | Link: https://www.imdb.com/title/tt0044419/ | Metascore: N/A
+Index: 1080 | ID: tt0065143 | The Bird with the Crystal Plumage | 1970 | Tomatometer: 85.0 | Link: https://www.imdb.com/title/tt0065143/ | Metascore: N/A
+Index: 1083 | ID: tt0024894 | The Black Cat | 1934 | Tomatometer: 89.0 | Link: https://www.imdb.com/title/tt0024894/ | Metascore: N/A
+Index: 1087 | ID: tt0066849 | The Blood on Satan’s Claw | 1971 | Tomatometer: 73.0 | Link: https://www.imdb.com/title/tt0066849/ | Metascore: N/A
+Index: 1098 | ID: tt0010323 | The Cabinet of Dr. Caligari | 1920 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0010323/ | Metascore: N/A
+Index: 1116 | ID: tt0092843 | The Dead | 1987 | Tomatometer: 94.0 | Link: https://www.imdb.com/title/tt0092843/ | Metascore: N/A
+Index: 1132 | ID: tt5867314 | The Empty Man | 2020 | Tomatometer: 76.0 | Link: https://www.imdb.com/title/tt5867314/ | Metascore: N/A
+Index: 1139 | ID: tt0061065 | The Face of Another | 1966 | Tomatometer: 86.0 | Link: https://www.imdb.com/title/tt0061065/ | Metascore: N/A
+Index: 1149 | ID: tt0017925 | The General | 1926 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt0017925/ | Metascore: N/A
+Index: 1154 | ID: tt0015864 | The Gold Rush | 1925 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0015864/ | Metascore: N/A
+Index: 1159 | ID: tt0032553 | The Great Dictator | 1940 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt0032553/ | Metascore: N/A
+Index: 1161 | ID: tt0063032 | The Great Silence | 1968 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0063032/ | Metascore: N/A
+Index: 1195 | ID: tt0024210 | The Kennel Murder Case | 1933 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0024210/ | Metascore: N/A
+Index: 1196 | ID: tt0012349 | The Kid | 1921 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0012349/ | Metascore: N/A
+Index: 1208 | ID: tt0058700 | The Last Man on Earth | 1964 | Tomatometer: 79.0 | Link: https://www.imdb.com/title/tt0058700/ | Metascore: N/A
+Index: 1217 | ID: tt0036112 | The Life and Death of Colonel Blimp | 1943 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0036112/ | Metascore: N/A
+Index: 1227 | ID: tt0016039 | The Lost World | 1925 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0016039/ | Metascore: N/A
+Index: 1237 | ID: tt0032762 | The Mark of Zorro | 1940 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt0032762/ | Metascore: N/A
+Index: 1243 | ID: tt0023238 | The Most Dangerous Game | 1932 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0023238/ | Metascore: N/A
+Index: 1247 | ID: tt0044953 | The Naked Spur | 1953 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0044953/ | Metascore: N/A
+Index: 1262 | ID: tt0035169 | The Palm Beach Story | 1942 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0035169/ | Metascore: N/A
+Index: 1270 | ID: tt0060841 | The Plague of the Zombies | 1966 | Tomatometer: 91.0 | Link: https://www.imdb.com/title/tt0060841/ | Metascore: N/A
+Index: 1275 | ID: tt0035211 | The Pride of the Yankees | 1942 | Tomatometer: 94.0 | Link: https://www.imdb.com/title/tt0035211/ | Metascore: N/A
+Index: 1278 | ID: tt0029442 | The Prisoner of Zenda | 1937 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0029442/ | Metascore: N/A
+Index: 1281 | ID: tt0049646 | The Quatermass Xperiment | 1955 | Tomatometer: 89.0 | Link: https://www.imdb.com/title/tt0049646/ | Metascore: N/A
+Index: 1285 | ID: tt0041786 | The Reckless Moment | 1949 | Tomatometer: N/A | Link: https://www.imdb.com/title/tt0041786/ | Metascore: N/A
+Index: 1286 | ID: tt0061537 | The Red and the White | 1967 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0061537/ | Metascore: N/A
+Index: 1287 | ID: tt0043961 | The Red Badge of Courage | 1951 | Tomatometer: 87.0 | Link: https://www.imdb.com/title/tt0043961/ | Metascore: N/A
+Index: 1288 | ID: tt0040725 | The Red Shoes | 1948 | Tomatometer: 98.0 | Link: https://www.imdb.com/title/tt0040725/ | Metascore: N/A
+Index: 1305 | ID: tt0111112 | The Secret of Roan Inish | 1994 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0111112/ | Metascore: N/A
+Index: 1307 | ID: tt0048605 | The Seven Year Itch | 1955 | Tomatometer: 84.0 | Link: https://www.imdb.com/title/tt0048605/ | Metascore: N/A
+Index: 1324 | ID: tt3387648 | The Taking of Deborah Logan | 2014 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt3387648/ | Metascore: N/A
+Index: 1329 | ID: tt0033152 | The Thief of Bagdad | 1940 | Tomatometer: 100.0 | Link: https://www.imdb.com/title/tt0033152/ | Metascore: N/A
+Index: 1332 | ID: tt0044121 | The Thing from Another World | 1951 | Tomatometer: 87.0 | Link: https://www.imdb.com/title/tt0044121/ | Metascore: N/A
+Index: 1337 | ID: tt0077138 | The Tree of Wooden Clogs | 1978 | Tomatometer: 95.0 | Link: https://www.imdb.com/title/tt0077138/ | Metascore: N/A
+Index: 1342 | ID: tt0096163 | The Vanishing | 1988 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0096163/ | Metascore: N/A
+Index: 1363 | ID: tt0042804 | The Young and the Damned | 1950 | Tomatometer: 91.0 | Link: https://www.imdb.com/title/tt0042804/ | Metascore: N/A
+Index: 1369 | ID: tt4105970 | They Look Like People | 2015 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt4105970/ | Metascore: 56
+Index: 1377 | ID: tt0050613 | Throne of Blood | 1957 | Tomatometer: 96.0 | Link: https://www.imdb.com/title/tt0050613/ | Metascore: N/A
+Index: 1396 | ID: tt0080040 | Tourist Trap | 1979 | Tomatometer: 40.0 | Link: https://www.imdb.com/title/tt0080040/ | Metascore: N/A
+Index: 1407 | ID: tt1187064 | Triangle | 2009 | Tomatometer: 78.0 | Link: https://www.imdb.com/title/tt1187064/ | Metascore: N/A
+Index: 1408 | ID: tt0862856 | Trick ’r Treat | 2007 | Tomatometer: 82.0 | Link: https://www.imdb.com/title/tt0862856/ | Metascore: N/A
+Index: 1414 | ID: tt0070842 | Turkish Delight | 1973 | Tomatometer: 86.0 | Link: https://www.imdb.com/title/tt0070842/ | Metascore: N/A
+Index: 1416 | ID: tt0069436 | Ulzana’s Raid | 1972 | Tomatometer: 90.0 | Link: https://www.imdb.com/title/tt0069436/ | Metascore: N/A
+Index: 1433 | ID: tt0055601 | Viridiana | 1961 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0055601/ | Metascore: N/A
+Index: 1440 | ID: tt0096409 | Walker | 1987 | Tomatometer: 47.0 | Link: https://www.imdb.com/title/tt0096409/ | Metascore: N/A
+Index: 1443 | ID: tt0067961 | Wanda | 1970 | Tomatometer: 92.0 | Link: https://www.imdb.com/title/tt0067961/ | Metascore: N/A
+Index: 1459 | ID: tt0044207 | When Worlds Collide | 1951 | Tomatometer: 81.0 | Link: https://www.imdb.com/title/tt0044207/ | Metascore: N/A
+Index: 1473 | ID: tt0076929 | Wizards | 1977 | Tomatometer: 67.0 | Link: https://www.imdb.com/title/tt0076929/ | Metascore: N/A
+Index: 1474 | ID: tt0111742 | Wolf | 1994 | Tomatometer: 62.0 | Link: https://www.imdb.com/title/tt0111742/ | Metascore: 53
+Index: 1482 | ID: tt0057693 | X: The Man with the X-Ray Eyes | 1963 | Tomatometer: 88.0 | Link: https://www.imdb.com/title/tt0057693/ | Metascore: N/A
+Index: 1495 | ID: tt0086637 | Zelig | 1983 | Tomatometer: 97.0 | Link: https://www.imdb.com/title/tt0086637/ | Metascore: N/A

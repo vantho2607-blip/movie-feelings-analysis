@@ -1,0 +1,6 @@
+model_name,r2,mse,rmse,notes
+Polynomial (deg-2),0.9433,2.191685,1.4804,Train set performance (in-sample)
+Random Forest,0.9191,3.128967,1.7689,Train set performance (in-sample)
+Linear Regression,0.3089,26.717494,5.1689,Train set performance (in-sample)
+SVR (RBF),0.3046,26.883542,5.1849,Train set performance (in-sample)
+Ridge Regression,0.2664,28.35889,5.3253,Train set performance (in-sample)

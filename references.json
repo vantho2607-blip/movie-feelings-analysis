@@ -1,0 +1,209 @@
+{
+  "papers": [
+    {
+      "title": "Artificial intelligence-driven sentiment analysis and optimization of movie scripts",
+      "authors": [
+        "Hong Zheng"
+      ],
+      "year": null,
+      "venue": "Discover Artificial Intelligence",
+      "doi": "10.1007/s44163-025-00361-2",
+      "abstract_summary": "AI-driven sentiment analysis of movie scripts, high accuracy results",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "IT-001",
+      "standard": "international",
+      "relevant_rqs": [
+        "GENERAL",
+        "RQ1",
+        "RQ2"
+      ],
+      "saved_at": "2026-06-25T18:16:14+07:00"
+    },
+    {
+      "title": "Between Algorithm and Emotion: Exploring Digital Sentiment at\n                    Schauwerk Sindelfingen",
+      "authors": [
+        "Anton Ginzburg"
+      ],
+      "year": 2025,
+      "venue": "Leonardo",
+      "doi": "10.1162/leon.a.93",
+      "abstract_summary": "Exploring Digital Sentiment and cultural patterns through computational analysis",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "IT-002",
+      "standard": "international",
+      "relevant_rqs": [
+        "RQ1",
+        "RQ3"
+      ],
+      "saved_at": "2026-06-25T18:55:02+07:00"
+    },
+    {
+      "title": "Phân tích cảm xúc trên phản hồi học viên bằng mô hình BERT kết hợp kiến trúc đa kênh CNN-GRU",
+      "authors": [
+        "Sơn Nam Trần",
+        "Kim Phụng Thái",
+        "Vinh Thế Phạm"
+      ],
+      "year": null,
+      "venue": "Tạp chí Nghiên cứu Tài chính - Marketing",
+      "doi": "10.52932/jfm.v16i1.611",
+      "abstract_summary": "Phân tích cảm xúc phản hồi bằng mô hình BERT kết hợp kiến trúc đa kênh CNN-G",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "VN-001",
+      "standard": "domestic",
+      "relevant_rqs": [
+        "RQ2",
+        "RQ3"
+      ],
+      "saved_at": "2026-06-25T18:55:20+07:00"
+    },
+    {
+      "title": "Cinematic Narratives as Socio-Technical Systems: Emotion Mining and Script–Audience Emotional Fidelity",
+      "authors": [
+        "Ayse Ocal"
+      ],
+      "year": null,
+      "venue": "Systems",
+      "doi": "10.3390/systems13110994",
+      "abstract_summary": "Emotion Mining and Script-Audience Emotion trajectories in cinematic narratives",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "IT-003",
+      "standard": "international",
+      "relevant_rqs": [
+        "RQ1",
+        "RQ3"
+      ],
+      "saved_at": "2026-06-25T23:28:58+07:00"
+    },
+    {
+      "title": "EMOS: A Multidimensional Emotional Fidelity Evaluation Framework for Machine Translation Quality Assessment",
+      "authors": [
+        "Jingshi Zhou",
+        "Fei Cheng",
+        "Xiaojun Zhang"
+      ],
+      "year": 2026,
+      "venue": "Cognitive Computation",
+      "doi": "10.1007/s12559-026-10609-3",
+      "abstract_summary": "",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "IT-004",
+      "standard": "international",
+      "relevant_rqs": [
+        "RQ2"
+      ],
+      "saved_at": "2026-06-26T00:05:09+07:00"
+    },
+    {
+      "title": "Longitudinal abuse and sentiment analysis of Hollywood movie dialogues using language models",
+      "authors": [
+        "Rohitash Chandra",
+        "Guoxiang Ren"
+      ],
+      "year": 2025,
+      "venue": "Machine Learning with Applications",
+      "doi": "10.1016/j.mlwa.2025.100749",
+      "abstract_summary": "",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "IT-005",
+      "standard": "international",
+      "relevant_rqs": [
+        "RQ3"
+      ],
+      "saved_at": "2026-06-26T00:05:16+07:00"
+    },
+    {
+      "title": "BIG DATA ANALYTICS FOR AUDIENCE SENTIMENT FORECASTING IN FILM PRODUCTION AND DISTRIBUTION",
+      "authors": [
+        "Abhinav Sharma",
+        "Sagar Vasantrao Joshi",
+        "Saket Kumar Singh",
+        "Anchal Singh",
+        "Amruta Prasad Kharade",
+        "Swati Vitthal Khidse"
+      ],
+      "year": null,
+      "venue": "ShodhKosh: Journal of Visual and Performing Arts",
+      "doi": "10.29121/shodhkosh.v6.i4s.2025.6939",
+      "abstract_summary": "",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "IT-006",
+      "standard": "international",
+      "relevant_rqs": [
+        "RQ1"
+      ],
+      "saved_at": "2026-06-26T00:06:40+07:00"
+    },
+    {
+      "title": "“Whatever Happened to Sentiment in the World Today?” Notes on John Cassavetes’s Experimental Melodramas",
+      "authors": [
+        "",
+        "Zsolt Pápai"
+      ],
+      "year": 2024,
+      "venue": "Acta Universitatis Sapientiae Film and Media Studies",
+      "doi": "10.47745/ausfm-2024-0001",
+      "abstract_summary": "",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "IT-007",
+      "standard": "international",
+      "relevant_rqs": [
+        "RQ1"
+      ],
+      "saved_at": "2026-06-26T00:06:47+07:00"
+    },
+    {
+      "title": "A multimodal speech-based pipeline with joint emotion analysis for Vietnamese service quality assessment",
+      "authors": [
+        "Quang-Anh Nguyen-Duc",
+        "Dinh-Thai Kim",
+        "Minh-Duc Pham",
+        "Xuan-Hai Le"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Speech Technology",
+      "doi": "10.1007/s10772-026-10268-7",
+      "abstract_summary": "",
+      "source_api": "crossref_verified",
+      "verified": true,
+      "verified_via": "crossref",
+      "id": "VN-002",
+      "standard": "domestic",
+      "relevant_rqs": [
+        "RQ1"
+      ],
+      "saved_at": "2026-06-26T00:06:54+07:00"
+    }
+  ],
+  "meta": {
+    "created": "2026-06-25T18:00:00+07:00",
+    "updated": "2026-06-26T00:06:54+07:00",
+    "total": 9,
+    "project": "Movie Feelings Analysis — ADY201m",
+    "standards": [
+      "international",
+      "domestic"
+    ],
+    "rqs": [
+      "RQ1",
+      "RQ2",
+      "RQ3"
+    ]
+  }
+}

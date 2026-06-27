@@ -1,0 +1,5 @@
+era,film_count,avg_audience_score,avg_critics_score
+Era 1 (1920-1950) Classic,109,77.972,87.67
+Era 2 (1951-1975) Transition,311,75.711,81.601
+Era 3 (1976-2000) Blockbuster,547,73.68,69.4
+Era 4 (2001-2024) Modern,499,72.928,74.93
